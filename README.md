@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @5hrey45
-- 👀 I’m interested in Technology
+- 👋 Hi, I’m Shreyas S S
+- Tech enthusiast
+- 👀 I’m interested in Coding and problem solving
 - 🌱 I’m currently learning C++
 
 <!---
