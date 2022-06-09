@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5hrey451212%2Fhit-counter" />
+  ![Visitor Count](https : //profile-counter.glitch.me/5hrey45/count.svg)
 
 <!---
 5hrey45/5hrey45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
